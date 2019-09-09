@@ -1397,24 +1397,23 @@ body {
 .cid-rBj7Vjd8KV .mbr-section-subtitle {
   color: #232323;
 }
-.cid-rBj9UkayjK {
-  padding-top: 30px;
+.cid-rBz3BJ6mW1 {
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-rBj9UkayjK .mbr-figure {
-    padding-left: 4rem;
+  .cid-rBz3BJ6mW1 .mbr-figure {
+    padding-right: 4rem;
   }
 }
 @media (max-width: 992px) {
-  .cid-rBj9UkayjK .mbr-figure {
-    padding-top: 1rem;
+  .cid-rBz3BJ6mW1 .mbr-figure {
+    padding-bottom: 1rem;
   }
 }
-.cid-rBj9UkayjK .mbr-text {
+.cid-rBz3BJ6mW1 .mbr-text {
   color: #767676;
-  text-align: right;
 }
 .cid-rBoXgxNK5U {
   padding-top: 15px;
